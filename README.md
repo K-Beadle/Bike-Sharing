@@ -4,7 +4,7 @@ Present a business proposal for a bike-sharing company. Imported, styled, and po
 
 ## Overview
 
-  - The purpose of this analysis was to find compelling compelling information from a NYC Citi Bike dataset and use it to make a business proposal to a potential investor to start our own bike-sharing company. 
+  - The purpose of this analysis was to find compelling compelling information from a NYC Citi Bike dataset and use it to make a business proposal to a potential investor to start our own bike-sharing company. [Link to dashboard](https://public.tableau.com/app/profile/kenneth.n.beadle/viz/NYCCitiBikeRideData/NYCCitiBikeData)
 
 
 
